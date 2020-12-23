@@ -10,3 +10,4 @@ Prerequisites:
 1. Install Node.js through the official node website.
 2. Install Express via npm --> npm install express.
 3. And then run the server via nodemon or type: SET DEBUG=accTask:* & npm start
+4. Hit the browser and type http://localhost:5000/
